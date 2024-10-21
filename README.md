@@ -27,56 +27,56 @@ Sky Computing is often referred to as the next evolutionary step beyond the clou
 <b>Nexus Modules</b><br>
 Below, we've listed all the modules in Nexus that interface with the Nebula services. Each module details its purpose and functionality, which collectively form the foundation of the xcware universal computing platform.
 <br>
-Access Gates
-Access Keys
-Block Storage
-Codespaces
-Cron Scheduler
-Data Bright
-Data Gate
-Data Insight
-Data Spark-house
-Data Spark-nodes
-Data Spark-solaris
-Data Stream
-Desktops
-Event Hub
-Firewall
-Flow-fx
-Groups
-Identities
-Instances-cn
-Instances-vm
-Instances-xvm
-Load Balancer
-Magna-app
-Magna-buckets
-Magna-db
-Magna-nodes
-Magna-s3
-Magna-se
-Magna-sqld
-Magna-sqlr
-Name Server
-Notification Gate
-Object Storage
-Private Network
-Repositories
-Roles
-SIEM Collector
-Secret Keys
-Security Scanner
-Serverless-api
-Serverless-flow
-Serverless-fx
-Serverless-json
-Serverless-mq
-Serverless-spark
-Sky Link
-Sky Nodes
-Solution Stacks
-VPN Manager
-Vista Sessions
+Access Gates<br>
+Access Keys<br>
+Block Storage<br>
+Codespaces<br>
+Cron Scheduler<br>
+Data Bright<br>
+Data Gate<br>
+Data Insight<br>
+Data Spark-house<br>
+Data Spark-nodes<br>
+Data Spark-solaris<br>
+Data Stream<br>
+Desktops<br>
+Event Hub<br>
+Firewall<br>
+Flow-fx<br>
+Groups<br>
+Identities<br>
+Instances-cn<br>
+Instances-vm<br>
+Instances-xvm<br>
+Load Balancer<br>
+Magna-app<br>
+Magna-buckets<br>
+Magna-db<br>
+Magna-nodes<br>
+Magna-s3<br>
+Magna-se<br>
+Magna-sqld<br>
+Magna-sqlr<br>
+Name Server<br>
+Notification Gate<br>
+Object Storage<br>
+Private Network<br>
+Repositories<br>
+Roles<br>
+SIEM Collector<br>
+Secret Keys<br>
+Security Scanner<br>
+Serverless-api<br>
+Serverless-flow<br>
+Serverless-fx<br>
+Serverless-json<br>
+Serverless-mq<br>
+Serverless-spark<br>
+Sky Link<br>
+Sky Nodes<br>
+Solution Stacks<br>
+VPN Manager<br>
+Vista Sessions<br>
 
 <br>
 <b>Get Started</b><br>
