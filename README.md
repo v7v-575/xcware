@@ -22,6 +22,62 @@ In simple terms, "Sky Computing" is a model where the xcware Universal Computing
 
 Sky Computing is often referred to as the next evolutionary step beyond the cloud, as it brings substantial value to businesses by offering greater flexibility and optimization.<br>
 
+
+<br>
+<b>Nexus Modules</b><br>
+Below, we've listed all the modules in Nexus that interface with the Nebula services. Each module details its purpose and functionality, which collectively form the foundation of the xcware universal computing platform.
+<br>
+Access Gates
+Access Keys
+Block Storage
+Codespaces
+Cron Scheduler
+Data Bright
+Data Gate
+Data Insight
+Data Spark-house
+Data Spark-nodes
+Data Spark-solaris
+Data Stream
+Desktops
+Event Hub
+Firewall
+Flow-fx
+Groups
+Identities
+Instances-cn
+Instances-vm
+Instances-xvm
+Load Balancer
+Magna-app
+Magna-buckets
+Magna-db
+Magna-nodes
+Magna-s3
+Magna-se
+Magna-sqld
+Magna-sqlr
+Name Server
+Notification Gate
+Object Storage
+Private Network
+Repositories
+Roles
+SIEM Collector
+Secret Keys
+Security Scanner
+Serverless-api
+Serverless-flow
+Serverless-fx
+Serverless-json
+Serverless-mq
+Serverless-spark
+Sky Link
+Sky Nodes
+Solution Stacks
+VPN Manager
+Vista Sessions
+
 <br>
 <b>Get Started</b><br>
 
