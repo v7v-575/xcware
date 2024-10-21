@@ -26,7 +26,7 @@ Sky Computing is often referred to as the next evolutionary step beyond the clou
 <br>
 <b>Nexus Modules</b><br>
 Below, we've listed all the modules in Nexus that interface with the Nebula services. Each module details its purpose and functionality, which collectively form the foundation of the xcware universal computing platform.
-<br>
+<br><br>
 Access Gates<br>
 Access Keys<br>
 Block Storage<br>
