@@ -28,5 +28,5 @@ Sky Computing is often referred to as the next evolutionary step beyond the clou
 Download and get started for free at https://xcware.com/docs/getstarted <br>
 Read the documenttation at https://xcware.com/docs/documentation <br><br>
 
-https://xcware.com
+Visit https://xcware.com to learn more about this platform.
 
