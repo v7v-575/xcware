@@ -1,8 +1,11 @@
 # xcware Universal Computing Platform
 
 We provide a modern computing platform designed for flexibility, enhancing your innovation both in the cloud and on-premises, empowering your future!
-
 <br>
+
+![Nexys Overview](https://xcware.com/assets/img/docs/nexus.jpg)
+
+
 <br>
 
 <b>Overwiew</b><br>
