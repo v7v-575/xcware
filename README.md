@@ -73,6 +73,7 @@ Serverless-json<br>
 Serverless-mq<br>
 Serverless-spark<br>
 Sky Link<br>
+Sky Network<br>
 Sky Nodes<br>
 Solution Stacks<br>
 VPN Manager<br>
