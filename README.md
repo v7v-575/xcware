@@ -45,6 +45,7 @@ Firewall<br>
 Flow-fx<br>
 Groups<br>
 Identities<br>
+Ingenia-LLM<br>
 Instances-cn<br>
 Instances-vm<br>
 Instances-xvm<br>
