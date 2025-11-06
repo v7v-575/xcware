@@ -1,4 +1,4 @@
-# xcware Universal Computing Platform
+# xcware Sky Computing Platform
 
 We provide a modern computing platform designed for flexibility, enhancing your innovation both in the cloud and on-premises, empowering your future!
 <br>
